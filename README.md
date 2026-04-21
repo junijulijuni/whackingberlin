@@ -8,7 +8,7 @@ a space to collect info from the random topics group
 
 ### 💃 [Dancing](/dancing)
 #### [Whacking](/dancing/whacking) 
-##### (posing/punking inspo)[/whacking/pose_inspiration.md]
+##### [posing/punking inspo](/whacking/pose_inspiration.md)
 #### [Dancer Health ❤️](/dancing/health)
 ---
 
