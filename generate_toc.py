@@ -30,7 +30,7 @@ def generate_toc(path, indent=0):
 
 def main():
     # Generate the new TOC
-    toc = ["# whacking berlin github", "", "## Table of Contents", ""] + generate_toc('.')
+    toc = ["# whacking berlin github", "![Whacking Berlin Logo](wbLogo.JPG "Whacking Berlin Logo")", "## Table of Contents", ""] + generate_toc('.')
 
     # Read the existing README (if it exists)
     readme_content = ""
