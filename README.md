@@ -9,7 +9,6 @@
   - [whacking](dancing/whacking)
     - [history](dancing/whacking/history)
       - [history_texts](dancing/whacking/history/history_texts.md)
-      - [source_files](dancing/whacking/history/source_files)
     - [music](dancing/whacking/music.md)
     - [pose_inspiration](dancing/whacking/pose_inspiration.md)
 
