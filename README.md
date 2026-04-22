@@ -5,14 +5,14 @@
 - [CONTRIBUTING](CONTRIBUTING.md)
 - [dancing](dancing)
   - [health](dancing/health)
-    - [dancing/health/earplug_recommendations](dancing/health/earplug_recommendations.md)
+    - [earplug_recommendations](dancing/health/earplug_recommendations.md)
   - [whacking](dancing/whacking)
     - [history](dancing/whacking/history)
-      - [dancing/whacking/history/history_texts](dancing/whacking/history/history_texts.md)
+      - [history_texts](dancing/whacking/history/history_texts.md)
       - [sources](dancing/whacking/history/sources)
-        - [dancing/whacking/history/sources/links](dancing/whacking/history/sources/links.md)
-    - [dancing/whacking/music](dancing/whacking/music.md)
-    - [dancing/whacking/pose_inspiration](dancing/whacking/pose_inspiration.md)
+        - [links](dancing/whacking/history/sources/links.md)
+    - [music](dancing/whacking/music.md)
+    - [pose_inspiration](dancing/whacking/pose_inspiration.md)
 
 <!-- PROTECTED_SECTION_START -->
 # This is your protected content
