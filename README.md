@@ -2,7 +2,7 @@
 
 <!-- PROTECTED_SECTION_START -->
 
-![alt text](https://github.com/junijulijuni/WhackingBerlin/blob/main/wbLogo.JPG "Whacking Berlin Logo")
+![Whacking Berlin Logo](wbLogo.JPG "Whacking Berlin Logo")
 # This is your protected content
 It can be **anything** you want to preserve:
 - Custom notes
