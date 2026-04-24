@@ -7,10 +7,10 @@
   - [health](dancing/health)
     - [earplug_recommendations](dancing/health/earplug_recommendations.md)
   - [whacking](dancing/whacking)
+    - [0music](dancing/whacking/0music.md)
     - [history](dancing/whacking/history)
       - [0history_texts](dancing/whacking/history/0history_texts.md)
       - [dance&club-culture-documentaries&footage](dancing/whacking/history/dance&club-culture-documentaries&footage.md)
-    - [music](dancing/whacking/music.md)
     - [pose_inspiration](dancing/whacking/pose_inspiration.md)
 
 <!-- PROTECTED_SECTION_START -->
