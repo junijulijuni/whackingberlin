@@ -6,6 +6,8 @@
 
 [Punking / whacking / waacking pioneers history - YouTube](https://m.youtube.com/playlist?list=PL2O2HHidt8L44D12qRtrWyJiRsfS3tRvv)
 
+[Whack history - YouTube](https://www.youtube.com/playlist?list=PL2kCWvrOUFcuYRLXumc2kJzORhRn0tKQB)
+
 ### OG Interviews
 
 [224 - Archie Burnett - The Club Is the Classroom - DanceSpeak | Podcast on Spotify](https://open.spotify.com/episode/0UgwjxgWZdNJhGrzcb0nYV?si=66fcb3ec93114e94)
