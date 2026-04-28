@@ -15,9 +15,7 @@
     - [pose_inspiration](dancing/whacking/pose_inspiration.md)
 
 <!-- PROTECTED_SECTION_START -->
-# This is your protected content
-It can be **anything** you want to preserve:
-- Custom notes
-- Important links
-- Contributor guidelines
+Hello to all the newcomers :) so far this github has a basic folder structure for organizing topics and markdown files as topic pages.
+I vibecoded the automated table of contents, so if an experienced person looks at it and says what the hell is this, I am happy work together to improve the code.
+Please feel free to fork the repo or post ideas using the "issues" tab. If you tell me who you are I can add you as a collaborator 
 <!-- PROTECTED_SECTION_END -->
