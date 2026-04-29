@@ -16,7 +16,7 @@
 
 [Kinethic California by Naomi Bragin](/dancing/whacking/history/BRAGIN-KinethicCalifornia-2024.pdf) 
 
-# New York Subculture 70s 80s 90s (needs better naming convention)
+# New York Subculture 70s 80s 90s (not whacking specific) (needs better naming convention)
 
 [Paris Is Burning (film) - Wikipedia](https://en.wikipedia.org/wiki/Paris_Is_Burning_(film))
 
